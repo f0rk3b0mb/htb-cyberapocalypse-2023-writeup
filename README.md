@@ -12,15 +12,15 @@ difficulty: very easy
 
 When the docker is spawned , we are met with a rather interesting interface , what caught my eye was the command console
 
-![screenshot](images/Screenshot from 2023-03-22 12-11-31.png)
+![screenshot](./images/Screenshot from 2023-03-22 12-11-31.png)
 
 we can see that we can run the ping command, when i saw this i blindly ran /ping 127.0.0.1; id and it worked, boom command injection. Tbh i didnt even unzip the challenge source ;)
 
-![screenshot](images/Screenshot\ from\ 2023-03-22\ 12-13-52.png)
+![screenshot](./images/Screenshot from 2023-03-22 12-13-52.png)
 
 to read the flag we have to type /ping 127.0.0.1;cat flag.txt , very easy right :)
 
-![screenshot](images/Screenshot from 2023-03-22 12-15-56.png)
+![screenshot](./images/Screenshot from 2023-03-22 12-15-56.png)
 
 
 
