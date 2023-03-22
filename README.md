@@ -64,7 +64,7 @@ so we just have to capture our jwt token and manipulate the uid to 1 for admin a
 ![screenshot](https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-20%2020-47-34.png)
 
 
-![screenshot]https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-20%2020-47-49.png
+![screenshot](https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-20%2020-47-49.png)
 
 
 replace the cookie in the browser storage with the one above and visit /admin page , it will allow access.
@@ -73,7 +73,7 @@ at this point we already had an ssti payload that we could use aganist jsrender 
 
 
 
-![screenshot]https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-22%2008-54-03.png
+![screenshot](https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-22%2008-54-03.png)
 
 
 
@@ -84,11 +84,11 @@ we will register a user using this payload as the username and a random password
 
 
 
-![screenshot]https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-20%2020-48-03.png 
+![screenshot](https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-20%2020-48-03.png)
 
 
 
-![screenshot]https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-21%2009-13-18.png
+![screenshot](https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-21%2009-13-18.png)
 
 
 
