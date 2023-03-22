@@ -16,7 +16,7 @@ When the docker is spawned , we are met with a rather interesting interface , wh
 
 we can see that we can run the ping command, when i saw this i blindly ran /ping 127.0.0.1; id and it worked, boom command injection. Tbh i didnt even unzip the challenge source ;)
 
-![screenshot](images/Screenshot from 2023-03-22 12-13-52.png)
+![screenshot](images/Screenshot\ from\ 2023-03-22\ 12-13-52.png)
 
 to read the flag we have to type /ping 127.0.0.1;cat flag.txt , very easy right :)
 
