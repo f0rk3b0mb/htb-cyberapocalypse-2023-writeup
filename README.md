@@ -3,7 +3,7 @@
 
 # hackthebox cyberapocalypse 2023 the cursed mission
 
-credits: p3rf3ctr00t_ke and gang de simphonia members
+credits: p3rf3ctr00t_ke and gang de sinfonia members
 
 ## gunhead
 
