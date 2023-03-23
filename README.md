@@ -56,7 +56,7 @@ i changed the password of admin to 1234
 
 
 logging in  the flag is as shown below :)
-
+credit: @derb
 
 
 ## didactic otto paddles
