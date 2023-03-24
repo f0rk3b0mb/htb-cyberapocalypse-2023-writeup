@@ -198,7 +198,7 @@ and we get the flag :)
 difficulty: very easy
 category: misc
 
-once you spawn the docker you get ana ip and port , use netcat to connect to the listening socket
+once you spawn the docker you get an ip and port , use netcat to connect to the listening socket
 
 ![screenshot](https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-18%2018-58-54.png)
 
@@ -207,7 +207,7 @@ it is a simple interface with create config , load config and exit . After playi
 ![screenshot](https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-18%2018-59-54.png)
 
 
-i had not this kind of syntax before so i googled it and it surns out it was yaml , then i came accross something called yaml deserialization attack.i found a github repo with a python code that can generate serialized yaml payload to perform the attack link is [Here](https://github.com/j0lt-github/python-deserialization-attack-payload-generator).
+i had not seen this kind of syntax before so i googled it and it turns out it was yaml , then i came accross something called yaml deserialization attack.i found a github repo with a python code that can generate serialized yaml payload to perform the attack link is [Here](https://github.com/j0lt-github/python-deserialization-attack-payload-generator).
 
 ![screenshot](https://github.com/f0rk3b0mb/htb-cyberapocalypse-2023-writeup/blob/main/images/Screenshot%20from%202023-03-18%2019-00-23.png)
 
